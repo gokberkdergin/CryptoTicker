@@ -20,7 +20,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT,
 const char* ssid = "yourssid";
 const char* password = "yourpassword";
 
-String API_KEY = "apikeyfromcoinmarketcap";
+String API_KEY = "apikey";
 String CONVERT_TO = "TRY";
 
 String serverName;
